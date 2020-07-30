@@ -1,0 +1,2 @@
+# DiscNarutoWorld
+Discord bot NarutoWorld
